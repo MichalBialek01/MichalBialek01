@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A young, ambitious student that expands knowledge mostly in Java, but also opend for other programing language 💻</h3>
+<h3 align="center">A young, ambitious student that expands knowledge mostly in Java, but also open for other programing language 💻</h3>
 <h3 align="center"> Currently studying at the Wrocław University of Technology, at the Faculty of Computer Science and Telecommunication 📚</h3>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Main Languages and Frameworks:</h4>
