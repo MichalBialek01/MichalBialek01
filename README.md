@@ -2,7 +2,7 @@
 <h3 align="center">A young, ambitious student that expands knowledge mostly in Java, but also open for other programing language 💻</h3>
 <h3 align="center"> Currently studying at the Wrocław University of Technology, at the Faculty of Computer Science and Telecommunication 📚</h3>
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Main Languages and Frameworks:</h4>
+<h4 align="left">Main Languages, frameworks and tools :</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40">
