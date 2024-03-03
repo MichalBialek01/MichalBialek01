@@ -11,8 +11,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-<img src="https://wakatime.com/static/img/wakatime.svg" alt="wakatime.com" width="40" height="40" style="filter: invert(100%); >
-
+<img src="https://wakatime.com/static/img/wakatime.svg" alt="wakatime.com" width="40" height="40">
+  
 </p>
 <h4 align="left">Other:</h4>
 <p align="left">
