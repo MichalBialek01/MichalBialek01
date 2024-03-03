@@ -1,8 +1,3 @@
-<style>
-.inverted-image {
-    filter: invert(100%);
-}
-
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A young, ambitious student that expands knowledge mostly in Java, but also open for other programing language 💻</h3>
 <h3 align="center"> Currently studying at the Wrocław University of Technology, at the Faculty of Computer Science and Telecommunication 📚</h3>
@@ -16,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-<img src="https://wakatime.com/static/img/wakatime.svg" alt="wakatime.com" width="40" height="40" class="inverted-image" >
+<img src="https://wakatime.com/static/img/wakatime.svg" alt="wakatime.com" width="40" height="40" style="filter: invert(100%); >
 
 </p>
 <h4 align="left">Other:</h4>
