@@ -2,6 +2,7 @@
 <h3 align="center">A young, ambitious student that expands knowledge mostly in Java, but also open for other programing language 💻</h3>
 <h3 align="center"> Currently studying at the Wrocław University of Technology, at the Faculty of Computer Science and Telecommunication 📚</h3>
 <h3 align="left"> Currently working on projects: </h3>
+<h5 align="left"> Car dealership program </h5>
 <h5 align="left"> Platform for food ordering and delivery </h5>
 <h5 align="left"> Platform for learning technical words ​​in English and German  </h5>
 <h3 align="left">Languages and Tools:</h3>
