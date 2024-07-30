@@ -27,7 +27,7 @@
 
 <div align="center" >
 
-## Time stats since 1 march 
+## Time stats (since 1 march 2024)  
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichalBialek01&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
