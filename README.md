@@ -9,7 +9,7 @@
       <hr>
       <h5>EmployeeREST</h5>
       <h5>RunnersThymeleafProject</h5>
-      <h5>PokemonRe</h5>
+      <h5>PokemonReviewApp</h5>
     </td>
     <td width="33%" align="center" style="vertical-align: top;">
       <h3>In progress:</h3>
