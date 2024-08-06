@@ -39,6 +39,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">Main Languages, frameworks and tools :</h4>
 <p align="center">
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="java" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40">
     <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1920px-Hibernate_logo_a.png" width="140" height="40" alt="Hibernate">
