@@ -39,18 +39,96 @@
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">Main Languages, frameworks and tools :</h4>
 <p align="center">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="java" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40">
-    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1920px-Hibernate_logo_a.png" width="140" height="40" alt="Hibernate">
-    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 90 66.06"><defs></defs><path class="cls-1" d="M85.11,4.18a14.27,14.27,0,0,0-19.83-.34,1.38,1.38,0,0,0,0,2L67,7.6a1.36,1.36,0,0,0,1.78.12A8.18,8.18,0,0,1,79.5,20.06C68.17,31.38,53.05-.36,18.73,16a4.65,4.65,0,0,0-2,6.54l5.89,10.17a4.64,4.64,0,0,0,6.3,1.73l.14-.08-.11.08L31.53,33a60.29,60.29,0,0,0,8.22-6.13,1.44,1.44,0,0,1,1.87-.06h0a1.34,1.34,0,0,1,.06,2A61.61,61.61,0,0,1,33,35.34l-.09,0-2.61,1.46a7.34,7.34,0,0,1-3.61.94,7.45,7.45,0,0,1-6.47-3.71l-5.57-9.61C4,32-2.54,46.56,1,65a1.36,1.36,0,0,0,1.33,1.11H8.61A1.36,1.36,0,0,0,10,64.87a9.29,9.29,0,0,1,18.42,0,1.35,1.35,0,0,0,1.34,1.19H35.9a1.36,1.36,0,0,0,1.34-1.19,9.29,9.29,0,0,1,18.42,0A1.36,1.36,0,0,0,57,66.06H63.1a1.36,1.36,0,0,0,1.36-1.34c.14-8.6,2.46-18.48,9.07-23.43C96.43,24.16,90.41,9.48,85.11,4.18ZM61.76,30.05l-4.37-2.19h0a2.74,2.74,0,1,1,4.37,2.2Z"></path></svg>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-    <img src="https://wakatime.com/static/img/wakatime.svg" alt="wakatime.com" width="40" height="40">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="react" width="40" height="40">
-    <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" alt="testcontainers" width="40" height="40">
+
+<a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" 
+         alt="swagger" 
+         width="40" 
+         height="40" 
+         title="Swagger - API Development Tools">
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="java" 
+         width="40" 
+         height="40" 
+         title="Java - Programming Language">
+</a>
+
+<a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
+         alt="spring" 
+         width="40" 
+         height="40" 
+         title="Spring - Application Framework">
+</a>
+
+<a href="https://hibernate.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1920px-Hibernate_logo_a.png" 
+         width="140" 
+         height="40" 
+         alt="Hibernate" 
+         title="Hibernate - ORM Framework">
+</a>
+
+
+
+<a href="https://www.oracle.com/database/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
+         alt="oracle" 
+         width="40" 
+         height="40" 
+         title="Oracle RDBMS">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+         alt="postgresql" 
+         width="40" 
+         height="40" 
+         title="PostgreSQL - Open Source Relational Database">
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+         alt="docker" 
+         width="40" 
+         height="40" 
+         title="Docker - Containerization Platform">
+</a>
+
+<a href="https://wakatime.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://wakatime.com/static/img/wakatime.svg" 
+         alt="WakaTime" 
+         width="40" 
+         height="40" 
+         title="WakaTime - Coding Activity Tracker">
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" 
+         alt="postman" 
+         width="40" 
+         height="40" 
+         title="Postman - API Development Tool">
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
+         alt="react" 
+         width="40" 
+         height="40" 
+         title="React - JavaScript Library for Building User Interfaces">
+</a>
+
+<a href="https://www.testcontainers.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" 
+         alt="testcontainers" 
+         width="40" 
+         height="40" 
+         title="Testcontainers - Java Library for Integration Testing with Docker">
+</a>
 
     
 
