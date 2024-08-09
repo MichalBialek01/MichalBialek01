@@ -48,6 +48,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
     <img src="https://wakatime.com/static/img/wakatime.svg" alt="wakatime.com" width="40" height="40">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="react" width="40" height="40">
+    <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" alt="testcontainers" width="40" height="40">
+
+    
+
 
 </p>
 <h4 align="center">Other:</h4>
