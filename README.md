@@ -41,7 +41,7 @@
 <p align="center">
 
 <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" 
+    <img src="https://www.svgrepo.com/show/374111/swagger.svg" 
          alt="swagger" 
          width="40" 
          height="40" 
