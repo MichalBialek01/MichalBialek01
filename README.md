@@ -27,7 +27,7 @@
 
 <div align="center" >
 
-## Time Stats - Code Writing in IntelliJ and WebStorm (since March 1, 2024)
+## Time Stats - Code writing in IntelliJ and WebStorm (since March 1, 2024)
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichalBialek01&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
