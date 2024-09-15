@@ -1,30 +1,7 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center"> Currently studying at the Wrocław University of Technology, at the Faculty of Computer Science and Telecommunication 📚</h3>
-
-
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" align="center" style="vertical-align: top;">
-      <h3>Completed basic projects:</h3>
-      <hr>
-      <h5>EmployeeREST</h5>
-      <h5>RunnersThymeleafProject</h5>
-      <h5>PokemonReviewApp</h5>
-    </td>
-    <td width="33%" align="center" style="vertical-align: top;">
-      <h3>In progress:</h3>
-      <hr>
-      <h5>Car dealership program</h5>
-    </td>
-    <td width="33%" align="center" style="vertical-align: top;">
-      <h3>Future projects:</h3>
-      <hr>
-      <h5>Platform for food ordering and delivery</h5>
-      <h5>Platform for learning technical words in English and German</h5>
-    </td>
-  </tr>
-</table>
-
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center"> I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development </h3>
+<h3 align="center"> Currently expanding my knowledge of AWS services and containerization technology while developing personal Java projects using Spring</h3>
+<h3 align="center">All project descriptions available here: </h3>
 <div align="center" >
 
 ## Time Stats - Code writing in IntelliJ and WebStorm (since March 1, 2024)
