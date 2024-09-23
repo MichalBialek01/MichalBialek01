@@ -1,4 +1,4 @@
-<h1> align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development</h3>
 <h3 align="center">Currently expanding my knowledge of AWS services and developing Spring-based Java projects</h3>
 
