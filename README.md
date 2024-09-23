@@ -2,11 +2,11 @@
 <h3 align="center">I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development</h3>
 <h3 align="center">Currently expanding my knowledge of AWS services and developing Spring-based Java projects</h3>
 
-<h3 align="center">All project descriptions available here:</h3>
+
 <div align="center">
 
   <table>
-    <caption>Main Projects</caption>
+    <h2>Main Projects</h2>
     <tr>
       <th>Project</th>
       <th>Description</th>
@@ -34,7 +34,7 @@
   </table>
 
   <table>
-    <caption>Side Projects</caption>
+    <h2>Side Projects</h2>
     <tr>
       <th>Project</th>
       <th>Description</th>
@@ -62,7 +62,7 @@
   </table>
 
   <table>
-    <caption>Quick Reminder Notes</caption>
+    <h2>Quick Reminder Notes</h2>
     <tr>
       <th>Note</th>
       <th>Description</th>
@@ -88,8 +88,65 @@
       <td>Guide on optimizing JPA performance.</td>
     </tr>
   </table>
+<table>
+  <h2>Academic Projects</h2>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBialek01/university-algorithms-project-1">university-algorithms-project-1</a>
+    </td>
+    <td>
+      Implementation and performance analysis of sorting algorithms: Merge Sort, Quicksort, Introspective Sort, and Bucket Sort, using a Kaggle dataset of movie reviews.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBialek01/university-algorithms-project-2">university-algorithms-project-2</a>
+    </td>
+    <td>
+      Analysis of Dijkstra's shortest path algorithm using different graph representations (Adjacency List, Adjacency Matrix) and exporting data for visualization in Python with networkx.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBialek01/university-algorithms-project-3">university-algorithms-project-3</a>
+    </td>
+    <td>
+      Tic-tac-toe game with AI opponent using the minimax algorithm and alpha-beta pruning, with a graphical interface in Java Swing.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBialek01/university_data_structures-project-1">university_data_structures-project-1</a>
+    </td>
+    <td>
+      Implementation of Singly Linked List, Doubly Linked List, and Dynamic Array in C++, with performance tests.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBialek01/university-data-structures-project-2">university-data-structures-project-2</a>
+    </td>
+    <td>
+      Implementation of priority queues using various structures: dynamic array, doubly linked list, binary heap, red-black tree, and AVL tree.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MichalBialek01/university-data-structures-project-3">university-data-structures-project-3</a>
+    </td>
+    <td>
+      Implementation of three hashing methods (algebraic, Fibonacci, modulo) with chaining and open addressing strategies.
+    </td>
+  </tr>
+</table>
 </div>
 
+
+<div align="center">
 
 
 ## Time Stats - Code writing in IntelliJ and WebStorm (since March 1, 2024)
