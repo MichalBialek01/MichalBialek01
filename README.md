@@ -13,11 +13,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/MichalBialek01/car-dealer-mvc">Car Dealership (Version 1 - MVC)</a>, <a href="https://github.com/MichalBialek01/car-dealer-mvc-v2">Version 2 - REST API + Security</a></td>
-      <td>An application for managing a car dealership with features for purchasing, service requests, and a module for handling service requests.</td>
+      <td>An application for managing a car dealership with features for purchasing, service requests, and a module for processing service requests.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MichalBialek01/pokemon-review-app">Pokemon Review</a></td>
-      <td>An application providing an API for CRUD operations on Pokémon and related reviews associated with specific Pokémon.</td>
+      <td>An application that provides an API for CRUD operations on Pokémon and their related reviews.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MichalBialek01/employee-rest">Employee REST</a></td>
@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/MichalBialek01/react-post-app">React post app</a></td>
-      <td>A basic React application for adding posts. Users log in using Google OAuth, and the app uses Firebase (Authentication, Firestore database, App hosting). <a href="https://react-app-5d5b7.web.app/">Live Demo</a></td>
+      <td>A simple React application for adding posts. Users can log in using Google OAuth, and the app utilizes Firebase for authentication, Firestore as the database, and app hosting. <a href="https://react-app-5d5b7.web.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/MichalBialek01/react-contact-app">React contact app</a>, <a href="https://github.com/MichalBialek01/spring-contact-app-api">Spring contact app API</a></td>
@@ -99,7 +99,7 @@
       <a href="https://github.com/MichalBialek01/university-algorithms-project-1">university-algorithms-project-1</a>
     </td>
     <td>
-      Implementation and performance analysis of sorting algorithms: Merge Sort, Quicksort, Introspective Sort, and Bucket Sort, using a Kaggle dataset of movie reviews.
+      Implementation and performance analysis of sorting algorithms: Merge Sort, Quicksort, Introspective Sort, and Bucket Sort, using a Kaggle dataset of movie reviews. Additionally, the project explores performance measurement in JVM-based languages, covering time measurement granularity, compiler optimization, JVM warm-up, and the use of the Java Microbenchmark Harness (JMH) framework
     </td>
   </tr>
   <tr>
