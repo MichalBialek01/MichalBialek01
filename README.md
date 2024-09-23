@@ -12,7 +12,7 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/car-dealer-mvc">Car Dealership (Version 1 - MVC)</a>, <a href="https://github.com/MichalBialek01/car-dealer-mvc-v2">Version 2 - REST API + Security</a></td>
+      <td><a href="https://github.com/MichalBialek01/car-dealer-mvc">Car Dealership (Version 1 - MVC)</a>, <a href="https://github.com/MichalBialek01/car-dealer-mvc-v2">Version 2 - REST API + Security - IN PROGRESS</a></td>
       <td>An application for managing a car dealership with features for purchasing, service requests, and a module for processing service requests.</td>
     </tr>
     <tr>
