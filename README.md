@@ -40,7 +40,7 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/java-api-fetching">java-api-fetching</a></td>
+      <td><a href="https://github.com/MichalBialek01/java-api-fetching">Java-api-fetching</a></td>
       <td>Demonstrates various ways to consume APIs in Java: WebClient, RestClient, RestTemplate, and OpenApi generator.</td>
     </tr>
     <tr>
