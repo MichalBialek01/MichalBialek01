@@ -1,8 +1,96 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center"> I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development </h3>
-<h3 align="center"> Currently expanding my knowledge of AWS services and containerization technology while developing personal Java projects using Spring</h3>
-<h3 align="center">All project descriptions available here: </h3>
-<div align="center" >
+h1 align="center">Hi there 👋</h1>
+<h3 align="center">I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development</h3>
+<h3 align="center">Currently expanding my knowledge of AWS services and developing Spring-based Java projects</h3>
+
+<h3 align="center">All project descriptions available here:</h3>
+<div align="center">
+
+  <table>
+    <caption>Main Projects</caption>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/car-dealer-mvc">Car Dealership (Version 1 - MVC)</a>, <a href="https://github.com/MichalBialek01/car-dealer-mvc-v2">Version 2 - REST API + Security</a></td>
+      <td>An application for managing a car dealership with features for purchasing, service requests, and a module for handling service requests.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/pokemon-review-app">Pokemon Review</a></td>
+      <td>An application providing an API for CRUD operations on Pokémon and related reviews associated with specific Pokémon.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/employee-rest">Employee REST</a></td>
+      <td>An application providing a REST API for CRUD operations on employees.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/runners-thymeleaf-project">Runners Clubs and Events</a></td>
+      <td>An MVC application for creating running clubs and organizing events.</td>
+    </tr>
+    <tr>
+      <td>Technical Language (in progress)</td>
+      <td>An application for learning technical English and German.</td>
+    </tr>
+  </table>
+
+  <table>
+    <caption>Side Projects</caption>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/java-api-fetching">java-api-fetching</a></td>
+      <td>Demonstrates various ways to consume APIs in Java: WebClient, RestClient, RestTemplate, and OpenApi generator.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/react-hello-world">React hello world</a></td>
+      <td>Lessons covering the basics of React. Each commit contains notes about the lessons and mechanisms used.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/react-post-app">React post app</a></td>
+      <td>A basic React application for adding posts. Users log in using Google OAuth, and the app uses Firebase (Authentication, Firestore database, App hosting). <a href="https://react-app-5d5b7.web.app/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/react-contact-app">React contact app</a>, <a href="https://github.com/MichalBialek01/spring-contact-app-api">Spring contact app API</a></td>
+      <td>An application for storing contacts with CRUD operations. The main goal is to learn API consumption and display contacts in React.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/aws-simple-notification">AWS Simple Notification</a></td>
+      <td>Example application using AWS services (DynamoDB, SNS) to send SMS notifications when a new item is added to a DynamoDB table.</td>
+    </tr>
+  </table>
+
+  <table>
+    <caption>Quick Reminder Notes</caption>
+    <tr>
+      <th>Note</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/Rest%20API/rest-api-reminder.pdf">REST API reminder</a></td>
+      <td>Quick reminder on REST API concepts.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/Database/Database_basics.pdf">Database basics reminder</a></td>
+      <td>Overview of basic database concepts.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/knowledge/tree/main/Functional-programming-example-exercises">Functional programming example</a></td>
+      <td>Example exercises for functional programming.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/knowledge/tree/main/Hibernate-and%20spring-manual-config">Manual Spring + Hibernate configuration</a></td>
+      <td>Manual configuration for integrating Spring with Hibernate.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/JPA/JPA%20Optimalizations.pdf">JPA optimizations</a></td>
+      <td>Guide on optimizing JPA performance.</td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## Time Stats - Code writing in IntelliJ and WebStorm (since March 1, 2024)
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichalBialek01&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
