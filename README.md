@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">I am a programming enthusiast specializing in Java and Spring-based backend applications/p>
+<p align="center">I am a programming enthusiast specializing in Java and Spring-based backend applications</p>
 <div align="center">
 
   <table>
