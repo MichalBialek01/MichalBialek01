@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development.Currently expanding my knowledge of AWS services and developing Spring-based Java projects </p>
-
-
+<p align="center">I am a programming enthusiast specializing in Java and Spring-based backend applications/p>
 <div align="center">
 
   <table>
