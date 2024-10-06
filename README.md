@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development</h3>
-<h3 align="center">Currently expanding my knowledge of AWS services and developing Spring-based Java projects</h3>
+<p align="center">I am a programming enthusiast specializing in Java, Spring, and AWS with a passion for backend software development.Currently expanding my knowledge of AWS services and developing Spring-based Java projects </p>
 
 
 <div align="center">
@@ -12,15 +11,15 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/car-dealer-mvc">Car Dealership (Version 1 - MVC)</a>, <a href="https://github.com/MichalBialek01/car-dealer-mvc-v2">Version 2 - REST API + Security - IN PROGRESS</a></td>
-      <td>An application for managing a car dealership with features for purchasing, service requests, and a module for processing service requests.</td>
+      <td> <a href="https://github.com/MichalBialek01/car-dealer"> Car Dealership</a> </td>
+      <td>An application for managing a car dealership with features for purchasing, service requests, and a module for processing service requests. </td>
     </tr>
     <tr>
       <td><a href="https://github.com/MichalBialek01/pokemon-review-app">Pokemon Review</a></td>
       <td>An application that provides an API for CRUD operations on Pokémon and their related reviews.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/employee-rest">Employee REST</a></td>
+      <td><a href="https://github.com/MichalBialek01/employee-rest">Employee REST API</a></td>
       <td>An application providing a REST API for CRUD operations on employees.</td>
     </tr>
     <tr>
@@ -40,7 +39,7 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/java-api-fetching">Java-api-fetching</a></td>
+      <td><a href="https://github.com/MichalBialek01/java-api-fetching">Java API fetching</a></td>
       <td>Demonstrates various ways to consume APIs in Java: WebClient, RestClient, RestTemplate, and OpenApi generator.</td>
     </tr>
     <tr>
