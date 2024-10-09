@@ -65,7 +65,7 @@
   </table>
 
   <table>
-    <h2>Quick Reminder Notes</h2>
+    <h2>Notes</h2>
     <tr>
       <th>Note</th>
       <th>Description</th>
