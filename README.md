@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/MichalBialek01/university_data_structures-project-1">university_data_structures-project-1</a>
+      <a href="https://github.com/MichalBialek01/university-data-structures-project-1">university_data_structures-project-1</a>
     </td>
     <td>
       Implementation of Singly Linked List, Doubly Linked List, and Dynamic Array in C++, with performance tests.
