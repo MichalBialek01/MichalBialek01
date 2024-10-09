@@ -17,7 +17,7 @@
       <td>An application that provides an API for CRUD operations on Pokémon and their related reviews.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/employee-rest">employee-REST API</a></td>
+      <td><a href="https://github.com/MichalBialek01/employee-rest">employee-REST api</a></td>
       <td>An application providing a REST API for CRUD operations on employees.</td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/java-api-fetching">java-API-fetching-examples</a></td>
+      <td><a href="https://github.com/MichalBialek01/java-api-fetching">java-api-fetching-examples</a></td>
       <td>Demonstrates various ways to consume APIs in Java: WebClient, RestClient, RestTemplate, and OpenApi generator.</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@
       <td>A simple React application for adding posts. Users can log in using Google OAuth, and the app utilizes Firebase for authentication, Firestore as the database, and app hosting. <a href="https://react-app-5d5b7.web.app/">Live Demo</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/react-contact-app">react-contact-app</a>, <a href="https://github.com/MichalBialek01/spring-contact-app-api">spring-contact-app-API</a></td>
+      <td><a href="https://github.com/MichalBialek01/react-contact-app">react-contact-app</a>, <a href="https://github.com/MichalBialek01/spring-contact-app-api">spring-contact-app-api</a></td>
       <td>An application for storing contacts with CRUD operations. The main goal is to learn API consumption and display contacts in React.</td>
     </tr>
     <tr>
