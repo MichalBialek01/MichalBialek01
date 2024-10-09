@@ -9,23 +9,23 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td> <a href="https://github.com/MichalBialek01/car-dealer"> Car Dealership</a> </td>
+      <td> <a href="https://github.com/MichalBialek01/car-dealer"> car-dealership</a> </td>
       <td>An application for managing a car dealership with features for purchasing, service requests, and a module for processing service requests. </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/pokemon-review-app">Pokemon Review</a></td>
+      <td><a href="https://github.com/MichalBialek01/pokemon-review-app">pokemon-review</a></td>
       <td>An application that provides an API for CRUD operations on Pokémon and their related reviews.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/employee-rest">Employee REST API</a></td>
+      <td><a href="https://github.com/MichalBialek01/employee-rest">employee-REST API</a></td>
       <td>An application providing a REST API for CRUD operations on employees.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/runners-thymeleaf-project">Runners Clubs and Events</a></td>
+      <td><a href="https://github.com/MichalBialek01/runners-thymeleaf-project">runners-clubs-and-events</a></td>
       <td>An MVC application for creating running clubs and organizing events.</td>
     </tr>
     <tr>
-      <td>Technical Language (in progress)</td>
+      <td>technical-language (in progress)</td>
       <td>An application for learning technical English and German.</td>
     </tr>
   </table>
@@ -37,24 +37,30 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/java-api-fetching">Java API fetching</a></td>
+      <td><a href="https://github.com/MichalBialek01/java-api-fetching">java-API-fetching-examples</a></td>
       <td>Demonstrates various ways to consume APIs in Java: WebClient, RestClient, RestTemplate, and OpenApi generator.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/react-hello-world">React hello world</a></td>
+      <td><a href="https://github.com/MichalBialek01/react-hello-world">react-hello-world</a></td>
       <td>Lessons covering the basics of React. Each commit contains notes about the lessons and mechanisms used.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/react-post-app">React post app</a></td>
+      <td><a href="https://github.com/MichalBialek01/react-post-app">react-post-app</a></td>
       <td>A simple React application for adding posts. Users can log in using Google OAuth, and the app utilizes Firebase for authentication, Firestore as the database, and app hosting. <a href="https://react-app-5d5b7.web.app/">Live Demo</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/react-contact-app">React contact app</a>, <a href="https://github.com/MichalBialek01/spring-contact-app-api">Spring contact app API</a></td>
+      <td><a href="https://github.com/MichalBialek01/react-contact-app">react-contact-app</a>, <a href="https://github.com/MichalBialek01/spring-contact-app-api">spring-contact-app-API</a></td>
       <td>An application for storing contacts with CRUD operations. The main goal is to learn API consumption and display contacts in React.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/aws-simple-notification">AWS Simple Notification</a></td>
+      <td><a href="https://github.com/MichalBialek01/aws-simple-notification">aws-simple-notification</a></td>
       <td>Example application using AWS services (DynamoDB, SNS) to send SMS notifications when a new item is added to a DynamoDB table.</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/MichalBialek01/rest-assured">rest-assured-test</a></td>
+      <td>
+        A program demonstrating the basic capabilities of the Rest-Assured framework through API tests for football and video games. The tests cover various operations such as data retrieval, creation, updating, deletion of resources, and response validation using JSON and XML schemas.
+      </td>
     </tr>
   </table>
 
@@ -65,23 +71,23 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/Rest%20API/rest-api-reminder.pdf">REST API reminder</a></td>
+      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/Rest%20API/rest-api-reminder.pdf">rest-api-notes</a></td>
       <td>Quick reminder on REST API concepts.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/Database/Database_basics.pdf">Database basics reminder</a></td>
+      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/Database/Database_basics.pdf">database-notes</a></td>
       <td>Overview of basic database concepts.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/knowledge/tree/main/Functional-programming-example-exercises">Functional programming example</a></td>
+      <td><a href="https://github.com/MichalBialek01/knowledge/tree/main/Functional-programming-example-exercises">functional-programming-exercises</a></td>
       <td>Example exercises for functional programming.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/knowledge/tree/main/Hibernate-and%20spring-manual-config">Manual Spring + Hibernate configuration</a></td>
+      <td><a href="https://github.com/MichalBialek01/knowledge/tree/main/Hibernate-and%20spring-manual-config">manual-configuration-of-spring-and-hibernate</a></td>
       <td>Manual configuration for integrating Spring with Hibernate.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/JPA/JPA%20Optimalizations.pdf">JPA optimizations</a></td>
+      <td><a href="https://github.com/MichalBialek01/knowledge/blob/main/JPA/JPA%20Optimalizations.pdf">jpa-optimizations-notes</a></td>
       <td>Guide on optimizing JPA performance.</td>
     </tr>
   </table>
