@@ -17,7 +17,7 @@
       <td>An application that provides an API for CRUD operations on Pokémon and their related reviews.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MichalBialek01/employee-rest">employee-REST api</a></td>
+      <td><a href="https://github.com/MichalBialek01/employee-rest">employee-rest</a></td>
       <td>An application providing a REST API for CRUD operations on employees.</td>
     </tr>
     <tr>
